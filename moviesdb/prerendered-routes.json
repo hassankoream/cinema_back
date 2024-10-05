@@ -1,0 +1,16 @@
+{
+  "routes": [
+    "/",
+    "/home",
+    "/linked",
+    "/linked/social-club",
+    "/linked/timeline",
+    "/login",
+    "/m",
+    "/m/discover",
+    "/m/favourites",
+    "/m/watchlist",
+    "/search-results",
+    "/signup"
+  ]
+}
